@@ -3,8 +3,10 @@ Repository for organizing material from the Yonsei ML study group.
 @ Yonsei University (Seoul), Department of Statistics & Data Science.
   
 ## What we have studied  
-1. Anomaly Detection
-2. Recommender Systems
+1. [Anomaly Detection](https://github.com/michelle1223/yonsei-ml/tree/main/Anomaly_Detection)
+- AutoEncoder
+- USAD
+2. [Recommender Systems](https://github.com/michelle1223/yonsei-ml/tree/main/RecSys)
 3. Natural Language Processing
 4. Clustering
 
